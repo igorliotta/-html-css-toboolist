@@ -17,3 +17,32 @@ img {
     width: 100px;
     vertical-align: middle;
 }
+
+/* Inizio del main */
+
+.conteiner {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.add-bar{
+   width: 100%;
+   display: inline-block;
+}
+
+.add-task {
+    color: white;
+    background-color: #79c0ff;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.add-section {
+    color: lightgrey;
+    background-color: white;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
