@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Intestazione */
+
+img {
+    max-width: 100%;
+}
+
+.main-header{
+    font-size: 45px;
+}
+
+.logo {
+    width: 100px;
+    vertical-align: middle;
+}
