@@ -19,10 +19,16 @@ img {
 }
 
 /* Inizio del main */
+/* Prima section */
+.main-conteiner{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: lightgrey;
+}
 
 .conteiner {
-    max-width: 800px;
-    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
 }
 
 .add-bar{
@@ -46,3 +52,36 @@ img {
     border-radius: 5px;
     border: 1px solid grey;
 }
+/* Seconda section */
+.list {
+    list-style: none;
+    padding-top: 10px;
+}
+.done {
+    display: inline-block;
+    font-size: 12px;
+    width: 20px;
+    height: 20px;
+    color: green;
+    border-radius: 50%;
+    border: 1px solid;
+    text-align: center;
+    line-height: 20px;
+}
+
+.editorial {
+    font-size: large;
+    color: white;
+    font-size: 5px;
+    background-color: #79c0ff;
+    padding: 6px 20px;
+    border-radius: 15px;
+}
+
+.new-task {
+    padding: 20px;
+}
+/* Seconda section */
+
+
+
