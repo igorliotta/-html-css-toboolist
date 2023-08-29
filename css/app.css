@@ -64,6 +64,12 @@ img {
     border-radius: 5px;
     border: 1px solid grey;
 }
+
+.new-task {
+    font-size: 22px;
+    padding-top: 10px;
+}
+
 /* Seconda section */
 .container-new-task {
     padding: 20px;
@@ -142,12 +148,20 @@ img {
 
 .today {
     padding-bottom: 10px;
+    font-size: 22px;
+    padding-top: 10px;
 }
 /* Quarta section */
 .upcoming-container {
     background-color: white;
     padding-top: 20px;
 }
+
+.upcoming {
+    font-size: 22px;
+    padding-top: 10px;
+}
+
 .website {
     color: white;
     font-size: 11px;
