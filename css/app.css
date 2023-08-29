@@ -27,13 +27,20 @@ img {
     max-width: 1000px;
     margin: 0 auto;
     background-color: white;
-    border: 1px solid black;
+    border: 10px solid #F5F5F5;
+}
+
+.container-bar {
+    padding: 20px;
+    background-color: white;
+    border-top: 20px solid #F5F5F5;
+    border-bottom: 3px solid  #F5F5F5;
 }
 
 .container {
     padding: 20px;
     background-color: white;
-    border: 1px solid black;
+    border: 10px solid black;
 }
 
 .add-bar{
@@ -58,6 +65,9 @@ img {
     border: 1px solid grey;
 }
 /* Seconda section */
+.container-new-task {
+    padding: 20px;
+}
 .list {
     list-style: none;
     padding-top: 10px;
