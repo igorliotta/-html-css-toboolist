@@ -74,7 +74,7 @@ img {
     color: white;
     font-size: 11px;
     background-color: #79c0ff;
-    padding: 6px 20px;
+    padding: 6px 15px;
     border-radius: 15px;
 }
 
@@ -99,7 +99,7 @@ img {
     color: white;
     font-size: 11px;
     background-color: #8A2BE2;
-    padding: 6px 20px;
+    padding: 6px 15px;
     border-radius: 15px;
 }
 
@@ -108,16 +108,15 @@ img {
     color: white;
     font-size: 11px;
     background-color: #8FBC8F;
-    padding: 6px 20px;
+    padding: 6px 15px;
     border-radius: 15px;
 }
 
 .mobile {
-    font-size: large;
     color: white;
     font-size: 11px;
     background-color: orange;
-    padding: 6px 20px;
+    padding: 6px 15px;
     border-radius: 15px;
 }
 
@@ -129,4 +128,18 @@ img {
     padding-bottom: 10px;
 }
 /* Inizio terza section */
+.website {
+    color: white;
+    font-size: 11px;
+    background-color: #DB7093;
+    padding: 6px 15px;
+    border-radius: 15px;
+}
 
+.sales {
+    color: white;
+    font-size: 11px;
+    background-color: #9ACD32;
+    padding: 6px 15px;
+    border-radius: 15px;
+}
